@@ -1,0 +1,1 @@
+# script.module.simple_plugin
